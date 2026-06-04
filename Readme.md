@@ -4,7 +4,7 @@ Full Stack Web Developer with extensive experience in web application developmen
 
 ## 🚀 Skills
 
-- Drupal 7, 8, 9, 10
+- Drupal 7, 8, 9, 10,11
 - PHP
 - MySQL / MariaDB
 - Linux Administration (Rocky Linux, Ubuntu, CentOS)
