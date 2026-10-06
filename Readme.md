@@ -601,11 +601,11 @@ I am interested in connecting with:
 
 ### Find me here
 
-**LinkedIn:** [Add LinkedIn profile]
+**LinkedIn:** https://www.linkedin.com/in/alok-bhaisare/
 
-**Website:** [Add personal website]
+**Website:** Coming Soon
 
-**Email:** [Add professional email]
+**Email:** alokbhojraj at outlook dot com
 
 ---
 
