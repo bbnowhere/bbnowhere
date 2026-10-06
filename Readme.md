@@ -1,63 +1,65 @@
-# Hi, I'm Alok 👋
+# Alok
 
-Full Stack Web Developer with extensive experience in web application development, Linux administration, and IT infrastructure.
+## Senior Technical Officer | Senior IT & Web Platform Specialist
 
-## 🚀 Skills
+I work across web application development and the systems that support it. My experience includes Drupal and PHP development, Linux administration, web infrastructure, automation, and technical documentation. I am also interested in using technology to improve access to information and opportunities for Deaf people.
 
-- Drupal 7, 8, 9, 10,11
-- PHP
-- MySQL / MariaDB
-- Linux Administration (Rocky Linux, Ubuntu, CentOS)
-- Docker & Containerization
-- Apache & Nginx
-- Git & CI/CD
-- Google Workspace Administration (GAM)
-- Shell Scripting
-- LDAP & Email Services
-- Web Security & Performance Optimization
+## Core expertise
 
-## 💼 What I Do
+- **Web platforms:** Drupal (7–11), PHP, MySQL/MariaDB, Apache, Nginx
+- **Linux and infrastructure:** Rocky Linux, Ubuntu, CentOS, server administration, Docker, LDAP, and email services
+- **Automation:** Shell and PHP scripting, Google Workspace administration with GAM, and repeatable operational workflows
+- **Practice:** Open source, web security and performance, accessibility, and technical documentation
 
-- Develop and maintain Drupal applications
-- Build custom modules and integrations
-- Manage Linux servers and web infrastructure
-- Automate administrative tasks using Shell and PHP
-- Configure Docker-based environments
-- Optimize website performance and security
-- Support enterprise-level web platforms
+## Drupal
 
-## 📂 Featured Projects
+I develop and maintain Drupal applications, build custom modules and integrations, and work with site upgrades, performance, and container-based development environments. My public repositories include a Drupal job portal and a Drupal 11 playground.
 
-### Drupal
-- Custom Drupal Modules
-- Drupal Migration & Upgrade Utilities
-- Drupal Performance Optimization
+## Linux, infrastructure, and automation
 
-### Infrastructure
-- Linux Automation Scripts
-- Docker Configurations
-- Apache & Nginx Deployments
-- Postfix & LDAP Configurations
+My infrastructure work spans Linux servers, web stacks, Docker environments, backup and monitoring workflows, and services such as LDAP and email. I use Shell and PHP to automate administrative and application tasks, and document practical procedures and troubleshooting as I go.
 
-### Administration
-- Google Workspace GAM Command Collection
-- System Administration Tools
-- Backup & Monitoring Solutions
+## Accessibility and Deaf-focused technology
 
-## 🌱 Interests
+Accessible digital experiences and Deaf technology are important areas of my work and interests. This includes technology related to sign language and projects connected with **DeafJobsWorld** and **Talking Hands India**.
 
-- Open Source Software
-- Accessibility & Inclusive Technology
-- Sign Language Technology
-- Linux & System Administration
-- Cloud Infrastructure
-- DevOps Practices
+- [DeafJobsWorld](https://jobs.talkinghands.co.in/) — a jobs resource for Deaf people
+- [Talking Hands India](https://talkinghands.co.in/) — sign language and Deaf-focused information
+- [Job-Portal-For-Deaf](https://github.com/bbnowhere/Job-Portal-For-Deaf) — a Drupal-based job portal project, with application and job import workflows
 
-## 📊 GitHub Stats
+## Selected projects
 
-- Drupal & PHP Development
-- Linux & Infrastructure Automation
-- Open Source Contributions
-- Technical Documentation
+### Web platforms and accessibility
 
-*"Building reliable web solutions through open source technologies."*
+- [Job-Portal-For-Deaf](https://github.com/bbnowhere/Job-Portal-For-Deaf) — Drupal employment portal project focused on job postings and applications for Deaf job seekers.
+- [testdev](https://github.com/bbnowhere/testdev) — Drupal 11 playground for development and experimentation.
+
+### Linux and automation
+
+- [backuppc-monitor](https://github.com/bbnowhere/backuppc-monitor) — Python tool for BackupPC monitoring, reporting, and backup health summaries.
+- [My-Learning](https://github.com/bbnowhere/My-Learning) — practical notes and references on Linux, networking, Drupal, and system administration.
+
+### Learning and experimentation
+
+- [touredit-ai](https://github.com/bbnowhere/touredit-ai) — a Python repository for AI experimentation.
+- [500LinesCode](https://github.com/bbnowhere/500LinesCode) — annotated Drupal/PHP learning example exploring an admissions workflow.
+- [AnnualTalksApp](https://github.com/bbnowhere/AnnualTalksApp) — an older Java Android event companion app for NCBS Annual Talks.
+
+## Current interests
+
+- Drupal and maintainable web platforms
+- Linux systems, infrastructure automation, and operational tooling
+- Accessible digital services and Deaf-focused technology
+- Indian Sign Language and sign language technology
+- Open source and clear technical documentation
+- Practical AI experimentation
+
+## Technology
+
+`Drupal` · `PHP` · `MySQL/MariaDB` · `Linux` · `Docker` · `Apache` · `Nginx` · `Shell` · `Python` · `Git` · `GAM` · `LDAP`
+
+## Links
+
+- [GitHub repositories](https://github.com/bbnowhere?tab=repositories)
+- [Talking Hands India](https://talkinghands.co.in/)
+- [DeafJobsWorld](https://jobs.talkinghands.co.in/)
